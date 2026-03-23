@@ -1,1 +1,3 @@
-formato os nomes no input.csv e na API do IBGE, comparo se tem um match exato ou próximo. Calcula as estatísticas dos com Status = OK, mas usando os dados uma vez por id do IBGE. Soma o total de municípios unicos pelo id_ibge e soma o total das que retornaram ok.
+formato os nomes no input.csv e na API do IBGE, comparo se tem um match exato ou próximo.
+Calcula as estatísticas dos com Status = OK, mas usando os dados uma vez por id do IBGE. 
+Soma o total de municípios unicos pelo id_ibge e soma o total das que retornaram ok.
